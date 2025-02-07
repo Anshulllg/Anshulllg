@@ -14,7 +14,17 @@
 - 📫 Reach me at: anshulgoswami0901@gmail.com
 
 ## Tech Stack 
-
+<div>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40" height="40"/>
+</div>
 ### XR Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
@@ -52,6 +62,6 @@
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshulllg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulllg&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulllg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulllg&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
