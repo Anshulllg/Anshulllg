@@ -25,7 +25,10 @@
 
 ### Programming Languages
 <div>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" height="40"/>
@@ -33,24 +36,43 @@
 
 ### Web Development
 <div>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="40" height="40"/>
 </div>
 
 ### Cloud & DevOps
 <div>
+  <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" title="Google Cloud" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
 </div>
 
 ### Design Tools
 <div>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" title="Adobe XD" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" title="Photoshop" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" title="Photoshop" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" title="Illustrator" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sketch" alt="Sketch" title="Sketch" width="40" height="40"/>
 </div>
 
 ### Connect With Me
