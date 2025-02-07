@@ -47,7 +47,6 @@
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="40" height="40"/>
 </div>
 
