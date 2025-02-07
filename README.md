@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Anshulllg/Anshulllg/blob/main/Profile.mp4" alt="MasterHead" width="1000"/>
+  <img src="https://github.com/Anshulllg/Anshulllg/blob/main/profile.gif" alt="MasterHead" width="1000"/>
 </div>
 
 # Hi there! 👋 I'm Anshul
